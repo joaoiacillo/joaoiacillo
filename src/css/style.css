@@ -1,0 +1,154 @@
+:root {
+    --default-side-padding: 25px;
+
+    /* Question: Does the rem value break the layout by itself if the font gets too big? */
+    --adaptive-container-width: 71rem;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+    font-size: 1rem;
+    line-height: 1.3rem;
+    scroll-behavior: smooth;
+}
+
+/* This container adapts it's max width according to the user preferred font
+   size so content fits well to the screen. */
+.adaptive-container {
+    position: relative;
+    max-width: var(--adaptive-container-width);
+    margin: 0 auto;
+    padding: 0 var(--default-side-padding);
+}
+
+/* || Buttons */
+
+.button {
+    display: inline-block;
+    padding: 5px 30px 5px 10px;
+    border-bottom: solid 1px black;
+    color: black;
+    font-size: 0.8rem;
+    line-height: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background .2s ease-in-out;
+}
+
+.button:hover {
+    background-color: rgb(240, 240, 240);
+}
+
+.blue-button {
+    color: #4A71AA;
+    border-bottom-color: #4A71AA;
+}
+
+.button::after {
+    content: ">";
+    position: relative;
+    right: -12px;
+    top: 0;
+    font-family: 'Fira Code', monospace;
+    font-size: 0.9rem;
+}
+
+/* || Header */
+
+.nav-header-wrapper {
+    position: sticky;
+    top: 0;
+    background-color: #FBFBFB;
+    z-index: 1;
+}
+
+.nav-header-container {
+    display: flex;
+}
+
+.brand-wrapper {
+    flex: 1;
+}
+
+.header-brand {
+    font-weight: 300;
+    font-size: 1.2rem;
+    font-style: italic;
+    line-height: 1.5rem;
+}
+
+.header-nav {
+    padding: 0 var(--default-side-padding);
+}
+
+.nav-list {
+    display: flex;
+    padding: 0;
+    list-style-type: none;
+    gap: 1.3rem;
+}
+
+.nav-link {
+    text-decoration: underline;
+    color: rgb(100, 100, 100);
+}
+
+.nav-link:hover {
+    color: black;
+}
+
+/* || Section -> About Me */
+
+.about-me-container {
+    padding-top: 100px;
+}
+
+.about-me-title {
+    margin-bottom: 0;
+    font-size: 2.3rem;
+    font-weight: 300;
+    line-height: 2.8rem;
+}
+
+.about-me-title .name {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.about-me-career {
+    margin-top: 15px;
+    color: #4A71AA;
+    font-family: 'Fira Code', monospace;
+    font-size: 2rem;
+    line-height: 2.3rem;
+    letter-spacing: 0.2rem;
+}
+
+.about-me-paragraph {
+    margin-bottom: 32px;
+    max-width: 34rem;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+}
+
+.about-me-portrait {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* || Waves */
+
+.waves img {
+    width: 100vw;
+}
