@@ -1,6 +1,6 @@
 # Hey, I'm João Iacillo 👋
 
-🇧🇷 🇺🇸
+🇧🇷 Native Brazilian Portuguese  |  🇺🇸 Advanced English
 
 I'm a 18 year-old web programmer with a passion for building interfaces in HTML and CSS. I'm a dedicated self-learner and I am constantly seeking new challenges to push myself further.
 
