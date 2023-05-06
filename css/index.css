@@ -10,12 +10,29 @@ h1 {
 }
 
 header .generic {
-    display: block;
+    display: inline-block;
     margin-bottom: 46px;
+    border-bottom: dashed 1px transparent;
     color: var(--gray-4);
+    cursor: pointer;
+}
+
+header .generic:hover {
+    border-bottom-color: var(--gray-3);
 }
 
 header p {
     margin: 0 auto;
     max-width: 460px;
+}
+
+header img {
+    display: none;
+    width: 100%;
+    margin-bottom: 96px;
+    border-radius: 20px;
+}
+
+header img[data-show="true"] {
+    display: block;
 }

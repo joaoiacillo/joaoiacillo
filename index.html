@@ -57,6 +57,14 @@
         </nav>
 
         <header class="container">
+            <img
+                src="imgs/corgi.jpeg"
+                alt="corgi"
+                id="corgi"
+                data-show="false"
+                title="Yes. I love Corgis. How did you find out?"
+            />
+
             <h3>Prazer,</h3>
             <h1>Eu sou João.</h1>
             <span class="generic">Desenvolvedor Full-Stack Jr.</span>
@@ -66,5 +74,18 @@
                 foco nas tecnologias React, JavaScript e Java.
             </p>
         </header>
+
+        <!-- Corgi Script -->
+        <script>
+            (function () {
+                const corgi = document.getElementById("corgi");
+                const generic = document.querySelector("header .generic");
+
+                generic.onclick = function () {
+                    let show = corgi.dataset.show;
+                    corgi.dataset.show = show === "false" ? "true" : "false";
+                };
+            })();
+        </script>
     </body>
 </html>
