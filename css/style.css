@@ -1,0 +1,138 @@
+/* || Variables || */
+
+:root {
+    /* || Fonts || */
+    --body-font: "Inter", sans-serif;
+    --heading-font: "Outfit", sans-serif;
+
+    /* || Colors || */
+    --white: #fff;
+    --gray-1: #d7d7d7;
+    --gray-2: #a6a6a6;
+    --gray-3: #616161;
+    --gray-4: #272727;
+    --black: black;
+}
+
+/* || Common || */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--body-font);
+}
+
+/* || Container || */
+
+.container {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+/* || Text || */
+
+p {
+    font-size: 16px;
+    letter-spacing: 0.5%;
+}
+
+a {
+    color: var(--black);
+    font-family: inherit;
+    font-size: 16px;
+    letter-spacing: 0.5%;
+}
+
+/* || Headings || */
+
+h1 {
+    font-family: var(--heading-font);
+    font-size: 48px;
+    font-weight: bold;
+    letter-spacing: 1.5%;
+}
+
+h2 {
+    font-family: var(--heading-font);
+    font-size: 36px;
+    font-weight: medium;
+    letter-spacing: 0.5%;
+}
+
+h3 {
+    font-family: var(--heading-font);
+    font-size: 24px;
+    font-weight: medium;
+    letter-spacing: 0;
+}
+
+/* || Buttons || */
+
+/* .button {
+    font-family: inherit; /* fix for buttons not inheriting *\/
+    font-size: 16px;
+    letter-spacing: 0.5%;
+} */
+
+/* || Navbar || */
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 45px 0;
+}
+
+nav h3 {
+    flex: 1;
+}
+
+nav li {
+    display: inline-block;
+}
+
+.nav-list li {
+    margin: 0 5px;
+}
+
+.nav-list a {
+    color: var(--gray-3);
+}
+
+.nav-list li:hover:not(.active) a {
+    color: var(--gray-4);
+}
+
+.nav-list .active a {
+    color: var(--black);
+}
+
+.dot-separator {
+    width: 8px;
+    height: 8px;
+    margin: 0 15px;
+    border-radius: 10px;
+    background-color: var(--gray-1);
+}
+
+.social-list li {
+    margin: 0 5px;
+}
+
+.social-list a {
+    color: var(--gray-4);
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.social-list li:hover {
+    transform: scale(110%);
+    transform-origin: center;
+}
+
+.social-list li:hover a {
+    color: var(--black);
+}
