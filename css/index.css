@@ -1,0 +1,21 @@
+/* || Header || */
+
+header {
+    padding: 97px 0;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 8px;
+}
+
+header .generic {
+    display: block;
+    margin-bottom: 46px;
+    color: var(--gray-4);
+}
+
+header p {
+    margin: 0 auto;
+    max-width: 460px;
+}
