@@ -1,17 +1,17 @@
 /* || Header || */
 
 header {
-    padding: 97px 0;
+    padding: 97px 0 180px;
     text-align: center;
 }
 
 h1 {
-    margin-bottom: 8px;
+    margin: 0 0 8px;
 }
 
 header .generic {
     display: inline-block;
-    margin-bottom: 46px;
+    margin: 0 0 46px;
     border-bottom: dashed 1px transparent;
     color: var(--gray-4);
     cursor: pointer;
@@ -29,10 +29,20 @@ header p {
 header img {
     display: none;
     width: 100%;
-    margin-bottom: 96px;
+    margin: 0 0 96px;
     border-radius: 20px;
 }
 
 header img[data-show="true"] {
     display: block;
+}
+
+/* || Recent Projects || */
+
+#projects > a {
+    /* for some reason inline-block doesn't work
+       with `margin: 0 auto;`. gotta check why. */
+    width: fit-content;
+    display: block;
+    margin: 0 auto 50px;
 }
