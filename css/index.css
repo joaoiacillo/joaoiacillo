@@ -9,6 +9,12 @@ h1 {
     margin: 0 0 8px;
 }
 
+header p {
+    max-width: 485px;
+    margin: 0 auto;
+    padding: 0 25px;
+}
+
 header .generic {
     display: inline-block;
     margin: 0 0 46px;
@@ -19,11 +25,6 @@ header .generic {
 
 header .generic:hover {
     border-bottom-color: var(--gray-3);
-}
-
-header p {
-    margin: 0 auto;
-    max-width: 460px;
 }
 
 header img {
