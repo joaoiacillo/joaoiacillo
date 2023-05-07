@@ -23,7 +23,7 @@ function generateRandomProject() {
     // this way there will be some image randomness.
     const width = 1200 + Math.round(Math.random(80)) + 1;
     const height = 700 + Math.round(Math.random(20)) + 1;
-    const url = `https://loremflickr.com/${width}/${height}`;
+    const url = `https://loremflickr.com/${width}/${height}/dog`;
     return createProjectElement(url, "Project Title", "01/01/2023");
 }
 
