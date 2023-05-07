@@ -39,6 +39,14 @@ header img[data-show="true"] {
 
 /* || Recent Projects || */
 
+#projects {
+    padding: 0;
+}
+
+#projects h2 {
+    margin: 0 0 10px;
+}
+
 #projects > a {
     /* for some reason inline-block doesn't work
        with `margin: 0 auto;`. gotta check why. */

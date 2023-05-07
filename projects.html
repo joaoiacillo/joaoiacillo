@@ -18,7 +18,6 @@
         <link rel="stylesheet" href="css/reset.css" />
         <link rel="stylesheet" href="css/style.css" />
         <link rel="stylesheet" href="css/projects.css" />
-        <link rel="stylesheet" href="css/index.css" />
 
         <!-- Icons -->
         <script
@@ -30,8 +29,8 @@
         <nav class="container">
             <h3>João Iacillo</h3>
             <ul class="nav-list">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="projects.html">Meus Projetos</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="#">Meus Projetos</a></li>
                 <li><a href="#">Contato</a></li>
             </ul>
             <span class="dot-separator"></span>
@@ -57,30 +56,10 @@
             </ul>
         </nav>
 
-        <header class="container">
-            <img
-                src="imgs/corgi.jpeg"
-                alt="corgi"
-                id="corgi"
-                data-show="false"
-                title="Yes. I love Corgis. How did you find out?"
-            />
-
-            <h3>Prazer,</h3>
-            <h1>Eu sou João.</h1>
-            <span class="generic">Desenvolvedor Full-Stack Jr.</span>
-            <p>
-                Estudante de Desenvolvimento Web, busco oportunidade para
-                adquirir experiência com programação front-end e back-end, com
-                foco nas tecnologias React, JavaScript e Java.
-            </p>
-        </header>
-
         <section class="container" id="projects">
-            <h2>Projetos Recentes</h2>
-            <a href="projects.html">Veja mais</a>
+            <h2>Meus Projetos</h2>
 
-            <ul class="project-grid" data-amount="6"></ul>
+            <ul class="project-grid" data-amount="30"></ul>
         </section>
 
         <footer>
@@ -88,18 +67,5 @@
         </footer>
 
         <script src="js/projects.js"></script>
-
-        <!-- Corgi Script -->
-        <script>
-            (function () {
-                const corgi = document.getElementById("corgi");
-                const generic = document.querySelector("header .generic");
-
-                generic.onclick = function () {
-                    let show = corgi.dataset.show;
-                    corgi.dataset.show = show === "false" ? "true" : "false";
-                };
-            })();
-        </script>
     </body>
 </html>
