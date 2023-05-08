@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Barbearia Alura",
+        "type": "Project",
+        "img": "barbearia-alura.jpg",
+        "link": "https://oracle-one.vercel.app/cursos-HTML-CSS/index.html"
+    },
+    {
+        "title": "OptimusTech Alura Website",
+        "type": "Project",
+        "img": "optimustech-alura-website.jpg",
+        "link": "https://alura-7days-html-css.vercel.app/"
+    },
+    {
+        "title": "Redesigned Python.org",
+        "type": "Design",
+        "img": "redesigned-python-org.jpg",
+        "link": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fa0idltDEtnwMv9Kl9KW9yP%2FPython.org-Redesigned%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3Dkju11RLwtrgyBRU9-1"
+    },
+    {
+        "title": "Simple Target Shooter",
+        "type": "Project",
+        "img": "simple-target-shooter.jpg",
+        "link": "https://oracle-one.vercel.app/curso-JavaScript_Logica_Canvas/05-07"
+    },
+    {
+        "title": "Fultonium Content Modal",
+        "type": "Design",
+        "img": "fultonium-content-modal.jpg",
+        "link": "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FC6WYPjqq8GVoe1vGl82xbV%2FFultonic-Entertainment%3Ftype%3Ddesign%26node-id%3D0%253A1%26t%3DgHiawt4fYFBb7Jrf-1"
+    },
+    {
+        "title": "QRCode Creator",
+        "type": "Project",
+        "img": "qrcode-creator.jpg",
+        "link": "https://joaoiacillo.github.io/qrcode-creator/"
+    },
+    {
+        "title": "React QRCode Component",
+        "type": "Project",
+        "img": "react-qrcode-component.jpg",
+        "link": "https://fem-react-qrcode-component.vercel.app/"
+    },
+    {
+        "title": "Agency Website",
+        "type": "Project",
+        "img": "agency-website.jpg",
+        "link": "https://websytes-projects.vercel.app/agency-website/index.html"
+    },
+    {
+        "title": "Amanda Nunes Portfolio",
+        "type": "Project",
+        "img": "amanda-nunes-portfolio.jpg",
+        "link": "https://websytes-projects.vercel.app/white-hat-seo/index.html"
+    },
+    {
+        "title": "404 Page Terminal",
+        "type": "Project",
+        "img": "404-page-terminal.jpg",
+        "link": "https://websytes-projects.vercel.app/404-page/index.html"
+    },
+    {
+        "title": "Band Website",
+        "type": "Project",
+        "img": "band-website.jpg",
+        "link": "https://websytes-projects.vercel.app/band-website-css/index.html"
+    },
+    {
+        "title": "Shopping List",
+        "type": "Project",
+        "img": "shopping-list.jpg",
+        "link": "https://websytes-projects.vercel.app/shopping-list/index.html"
+    },
+    {
+        "title": "JS Breakout Game",
+        "type": "Project",
+        "img": "js-breakout-game.jpg",
+        "link": "https://js-breakout-game.vercel.app/"
+    }
+]

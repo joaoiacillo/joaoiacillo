@@ -74,6 +74,7 @@ h3 {
     font-family: var(--heading-font);
     font-size: 24px;
     font-weight: 500;
+    line-height: 30px;
     letter-spacing: 0;
 }
 
