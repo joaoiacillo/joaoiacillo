@@ -102,6 +102,11 @@ nav h3 {
     flex: 1;
 }
 
+nav h3 a {
+    font-size: inherit;
+    text-decoration: none;
+}
+
 nav li {
     display: inline-block;
 }
