@@ -27,7 +27,9 @@ const projectsJson = fetch("projects.json")
     .catch((err) => handleProjectsJsonError(err));
 
 function handleProjectsJsonData(data) {
-    for (let i = 0; i < projectsAmount; i++) {
+    const amount = isNaN(projectsAmount) ? data.length : projectsAmount;
+
+    for (let i = 0; i < amount; i++) {
         const project = data[i];
 
         if (typeof project === "undefined") break;
