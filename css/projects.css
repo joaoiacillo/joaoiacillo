@@ -23,11 +23,24 @@
 }
 
 .project-grid h3 {
-    margin: 0 0 8px 15px;
+    margin: 0 0 20px 15px;
+}
+
+.project-grid .generic {
+    margin: 0 15px 0;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.project-grid li[data-type="project"] .generic {
+    background-color: rgba(0, 119, 255, 0.2);
+}
+
+.project-grid li[data-type="design"] .generic {
+    background-color: rgba(195, 0, 255, 0.2);
 }
 
 .project-grid a {
-    margin: 0 15px 0;
     color: var(--gray-3);
 }
 

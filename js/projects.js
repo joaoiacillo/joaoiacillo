@@ -3,19 +3,18 @@ const projectsAmount = parseInt(projectsElement.data("amount"));
 
 const PROJECTS_IMGS_FOLDER = "imgs/projects/";
 
-function createProjectElement(imgSrc, title, link) {
+function createProjectElement(imgSrc, type, title, link) {
     const imgElement = $("<img>").attr("src", imgSrc);
     const titleElement = $("<h3>").text(title);
+    const typeElement = $("<span>").addClass("generic").text(type);
     const linkElement = $("<a>")
         .attr("href", link)
         .attr("target", "_blank")
         .text("Acessar");
 
-    const projectElement = $("<li>").append(
-        imgElement,
-        titleElement,
-        linkElement
-    );
+    const projectElement = $("<li>")
+        .attr("data-type", type.toLowerCase())
+        .append(imgElement, titleElement, typeElement, linkElement);
 
     return projectElement;
 }
@@ -37,10 +36,11 @@ function handleProjectsJsonData(data) {
 
         if (typeof project === "undefined") break;
 
-        const { img, title, link } = project;
+        const { img, title, type, link } = project;
 
         const projectElement = createProjectElement(
             extendImageUrl(img),
+            type,
             title,
             link
         );
