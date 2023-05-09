@@ -32,7 +32,7 @@
     border-radius: 10px;
 }
 
-.project-grid li[data-type="project"] .generic {
+.project-grid li[data-type="projeto"] .generic {
     background-color: rgba(0, 119, 255, 0.2);
 }
 
