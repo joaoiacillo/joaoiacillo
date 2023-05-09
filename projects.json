@@ -1,13 +1,13 @@
 [
     {
         "title": "Barbearia Alura",
-        "type": "Project",
+        "type": "Projeto",
         "img": "barbearia-alura.jpg",
         "link": "https://oracle-one.vercel.app/cursos-HTML-CSS/index.html"
     },
     {
         "title": "OptimusTech Alura Website",
-        "type": "Project",
+        "type": "Projeto",
         "img": "optimustech-alura-website.jpg",
         "link": "https://alura-7days-html-css.vercel.app/"
     },
@@ -19,7 +19,7 @@
     },
     {
         "title": "Simple Target Shooter",
-        "type": "Project",
+        "type": "Projeto",
         "img": "simple-target-shooter.jpg",
         "link": "https://oracle-one.vercel.app/curso-JavaScript_Logica_Canvas/05-07"
     },
@@ -31,49 +31,49 @@
     },
     {
         "title": "QRCode Creator",
-        "type": "Project",
+        "type": "Projeto",
         "img": "qrcode-creator.jpg",
         "link": "https://joaoiacillo.github.io/qrcode-creator/"
     },
     {
         "title": "React QRCode Component",
-        "type": "Project",
+        "type": "Projeto",
         "img": "react-qrcode-component.jpg",
         "link": "https://fem-react-qrcode-component.vercel.app/"
     },
     {
         "title": "Agency Website",
-        "type": "Project",
+        "type": "Projeto",
         "img": "agency-website.jpg",
         "link": "https://websytes-projects.vercel.app/agency-website/index.html"
     },
     {
         "title": "Amanda Nunes Portfolio",
-        "type": "Project",
+        "type": "Projeto",
         "img": "amanda-nunes-portfolio.jpg",
         "link": "https://websytes-projects.vercel.app/white-hat-seo/index.html"
     },
     {
         "title": "404 Page Terminal",
-        "type": "Project",
+        "type": "Projeto",
         "img": "404-page-terminal.jpg",
         "link": "https://websytes-projects.vercel.app/404-page/index.html"
     },
     {
         "title": "Band Website",
-        "type": "Project",
+        "type": "Projeto",
         "img": "band-website.jpg",
         "link": "https://websytes-projects.vercel.app/band-website-css/index.html"
     },
     {
         "title": "Shopping List",
-        "type": "Project",
+        "type": "Projeto",
         "img": "shopping-list.jpg",
         "link": "https://websytes-projects.vercel.app/shopping-list/index.html"
     },
     {
         "title": "JS Breakout Game",
-        "type": "Project",
+        "type": "Projeto",
         "img": "js-breakout-game.jpg",
         "link": "https://js-breakout-game.vercel.app/"
     }
