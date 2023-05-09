@@ -45,13 +45,19 @@ header img[data-show="true"] {
 }
 
 #projects h2 {
-    margin: 0 0 10px;
+    margin: 0 0 30px;
+}
+
+#projects ul {
+    margin-bottom: 50px;
 }
 
 #projects > a {
     /* for some reason inline-block doesn't work
        with `margin: 0 auto;`. gotta check why. */
-    width: fit-content;
+    width: 100%;
+    max-width: 300px;
     display: block;
-    margin: 0 auto 50px;
+    margin: 0 auto;
+    text-align: center;
 }
