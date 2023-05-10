@@ -6,7 +6,7 @@ const PROJECTS_IMGS_FOLDER = "imgs/projects/";
 function createProjectElement(imgSrc, type, title, link) {
     const imgElement = $("<img>").attr("src", imgSrc);
     const titleElement = $("<h3>").text(title);
-    const typeElement = $("<span>").addClass("generic").text(type);
+    const typeElement = $("<span>").addClass("generic-text").text(type);
     const linkElement = $("<a>")
         .attr("href", link)
         .attr("target", "_blank")

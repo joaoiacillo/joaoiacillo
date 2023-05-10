@@ -1,7 +1,10 @@
 /* || Header || */
 
 header {
-    padding: 97px 0 180px;
+    margin: 20px 0 90px;
+    padding: 80px 0;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.1);
     text-align: center;
 }
 
@@ -10,12 +13,12 @@ h1 {
 }
 
 header p {
-    max-width: 485px;
-    margin: 0 auto;
+    max-width: 450px;
     padding: 0 25px;
+    margin: 0 auto;
 }
 
-header .generic {
+header .generic-text {
     display: inline-block;
     margin: 0 0 46px;
     border-bottom: dashed 1px transparent;
@@ -23,14 +26,14 @@ header .generic {
     cursor: pointer;
 }
 
-header .generic:hover {
+header .generic-text:hover {
     border-bottom-color: var(--gray-3);
 }
 
 header img {
     display: none;
-    width: 100%;
-    margin: 0 0 96px;
+    width: 80%;
+    margin: 0 auto 40px;
     border-radius: 20px;
 }
 
@@ -45,7 +48,8 @@ header img[data-show="true"] {
 }
 
 #projects h2 {
-    margin: 0 0 30px;
+    margin: 0 0 100px;
+    text-align: center;
 }
 
 #projects ul {

@@ -29,14 +29,15 @@ body {
 /* || Container || */
 
 .container {
-    max-width: 940px;
-    margin: 0 auto;
+    max-width: 1136px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* || Text || */
 
 p {
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 20px;
     letter-spacing: 0.5%;
 }
@@ -44,11 +45,11 @@ p {
 a {
     color: var(--black);
     font-family: inherit;
-    font-size: 16px;
+    font-size: inherit;
     letter-spacing: 0.5%;
 }
 
-.generic {
+.generic-text {
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0.5%;
@@ -104,28 +105,24 @@ h3 {
 
 .button i {
     position: absolute;
-    right: 25px;
+    right: 18px;
     color: var(--gray-2);
 }
 
 /* || Navbar || */
 
 nav {
+    display: flex;
     position: sticky;
     top: 0;
-    z-index: 1;
-    display: flex;
-    align-items: center;
     padding: 45px 25px;
+    justify-content: space-between;
+    align-items: center;
     background-color: white;
-}
-
-nav h3 {
-    flex: 1;
+    z-index: 1;
 }
 
 nav h3 a {
-    font-size: inherit;
     text-decoration: none;
 }
 
@@ -149,27 +146,14 @@ nav li {
     color: var(--black);
 }
 
-.dot-separator {
-    width: 8px;
-    height: 8px;
-    margin: 0 15px;
-    border-radius: 10px;
-    background-color: var(--gray-1);
-}
-
 .social-list li {
     margin: 0 5px;
 }
 
 .social-list a {
-    color: var(--gray-4);
-    font-size: 24px;
+    color: var(--gray-3);
+    font-size: 20px;
     text-decoration: none;
-}
-
-.social-list li:hover {
-    transform: scale(110%);
-    transform-origin: center;
 }
 
 .social-list li:hover a {
@@ -203,8 +187,55 @@ nav li {
 
     .social-list {
         position: absolute;
-        top: 25px;
+        top: 30px;
         right: 25px;
+    }
+
+    .social-list a {
+        font-size: 24px;
+    }
+}
+
+/* || Projects Grid || */
+
+.project-grid {
+    display: grid;
+    padding: 0 25px;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 50px 20px;
+}
+
+.project-grid img {
+    width: 100%;
+    margin: 0 0 7px;
+    border-radius: 10px;
+}
+
+.project-grid h3 {
+    margin: 0 0 20px 15px;
+}
+
+.project-grid .generic-text {
+    margin: 0 15px 0;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.project-grid li[data-type="projeto"] .generic-text {
+    background-color: rgba(0, 119, 255, 0.2);
+}
+
+.project-grid li[data-type="design"] .generic-text {
+    background-color: rgba(195, 0, 255, 0.2);
+}
+
+.project-grid a {
+    color: var(--gray-3);
+}
+
+@media screen and (max-width: 570px) {
+    .project-grid {
+        text-align: center;
     }
 }
 
@@ -230,13 +261,13 @@ nav li {
 
 .pfp-wrapper .borderless {
     background-color: white;
-    padding: 15px;
+    padding: 10px;
     border-radius: 100px;
 }
 
 #cta img {
     position: relative;
-    top: 5px; /* 5px shift to trully-center image */
+    top: 2px;
     width: 100%;
     border-radius: 100px;
 }
@@ -245,7 +276,7 @@ nav li {
     margin-bottom: 20px;
 }
 
-#cta .generic {
+#cta .generic-text {
     display: block;
     margin-bottom: 30px;
 }

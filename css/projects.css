@@ -1,5 +1,3 @@
-/* || Projects || */
-
 #projects {
     padding: 97px 0 0;
 }
@@ -7,45 +5,4 @@
 #projects h2 {
     margin: 0 0 100px;
     text-align: center;
-}
-
-.project-grid {
-    display: grid;
-    padding: 0 25px;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 50px 20px;
-}
-
-.project-grid img {
-    width: 100%;
-    margin: 0 0 7px;
-    border-radius: 10px;
-}
-
-.project-grid h3 {
-    margin: 0 0 20px 15px;
-}
-
-.project-grid .generic {
-    margin: 0 15px 0;
-    padding: 5px 10px;
-    border-radius: 10px;
-}
-
-.project-grid li[data-type="projeto"] .generic {
-    background-color: rgba(0, 119, 255, 0.2);
-}
-
-.project-grid li[data-type="design"] .generic {
-    background-color: rgba(195, 0, 255, 0.2);
-}
-
-.project-grid a {
-    color: var(--gray-3);
-}
-
-@media screen and (max-width: 570px) {
-    .project-grid {
-        text-align: center;
-    }
 }
