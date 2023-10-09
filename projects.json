@@ -1,5 +1,11 @@
 [
     {
+        "title": "Portfolio Purple Marketing",
+        "type": "Projeto",
+        "img": "portfolio-purple.jpg",
+        "link": "https://purplemkt.000webhostapp.com/"
+    },
+    {
         "title": "Barbearia Alura",
         "type": "Projeto",
         "img": "barbearia-alura.jpg",
