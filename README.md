@@ -1,53 +1,30 @@
-# Hey, I'm João Iacillo 👋
+# João Iacillo
 
-The `README.md` is still a **WIP**. Please, come back later.
+A curious frontend programmer from Brazil
 
-<!--
+<div>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" alt="joaoiacillo" />
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoiacillo&" alt="joaoiacillo" />
+</div>
 
-🇧🇷 Native Brazilian Portuguese  |  🇺🇸 Advanced English
+<p></p>
 
-I'm a 18 year-old web programmer with a passion for building interfaces in HTML and CSS. I'm a dedicated self-learner and I am constantly seeking new challenges to push myself further.
+- 🌱 I’m currently learning **React and Redux**
 
-## 🛠️ Skills
+- 👨‍💻 All of my projects are available at [https://joaoiacillo.vercel.app](https://joaoiacillo.vercel.app)
 
-- **Languages**: HTML, CSS, JavaScript, Python
-- **Frameworks/Libraries**: Bootstrap, jQuery
-- **Tools**: Git, GitHub, VS Code, Vim/NeoVim, Figma
+- 📝 I regularly write articles on [https://dev.to/joaoiacillo](https://dev.to/joaoiacillo)
 
-## 🌱 Currently Learning
+- 📫 How to reach me **joaopiacillo@outlook.com.br**
 
-- React.js
-- JS Canva API
+- ⚡ Fun fact **I'm in touch with computers since I was born**
 
-## 💼 Work Experience
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/joaoiacillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="joaoiacillo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joaoiacillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joaoiacillo" height="30" width="40" /></a>
+</p>
 
-- **Volunteer** at PROA (Jan 2023 - Currently)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-## 📫 How to reach me
-
-- Email: [joaopiacillo@outlook.com.br](mailto:joaopiacillo@outlook.com.br)
-- LinkedIn: [linkedin.com/in/joaoiacillo](https://www.linkedin.com/in/joaoiacillo/)
-
-## 🎨 Hobbies
-
-- Programming
-- Music
-- Games
-
-Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on a project.
-
-
-<!--
-**joaoiacillo/joaoiacillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
