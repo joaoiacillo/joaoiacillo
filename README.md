@@ -4,6 +4,7 @@ A curious frontend programmer from Brazil
 
 <div align="center">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" alt="joaoiacillo" />
+  <br>
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=joaoiacillo&" alt="joaoiacillo" />
 </div>
 
