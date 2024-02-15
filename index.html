@@ -2,157 +2,80 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>João Iacillo</title>
-
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Outfit:wght@400;500;700&display=swap" rel="stylesheet">
-
-    <!-- Styles -->
-    <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/index.css">
-
-    <!-- jQuery Modal -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css">
-
-    <!-- Icons -->
-    <script src="https://kit.fontawesome.com/d56aedba85.js" crossorigin="anonymous"></script>
+    <title>João Iacillo - Programador Web Jr.</title>
 </head>
 <body>
-    <nav class="container">
-        <h3><a href="#">João Iacillo</a></h3>
-
-        <ul class="nav-list">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="projects.html">Meus Projetos</a></li>
-            <li><a href="#contact-modal" rel="modal:open">Contato</a></li>
-        </ul>
-
-        <ul class="social-list">
-            <li title="E-mail">
-                <a href="#contact-modal" rel="modal:open">
-                    <i class="fa-sharp fa-solid fa-at"></i>
-                </a>
-            </li>
-            <li title="GitHub">
-                <a href="https://github.com/joaoiacillo" target="_blank">
-                    <i class="fa-brands fa-github"></i>
-                </a>
-            </li>
-            <li title="LinkedIn">
-                <a href="https://linkedin.com/in/joaoiacillo" target="_blank">
-                    <i class="fa-brands fa-linkedin"></i>
-                </a>
-            </li>
-            <li title="Fosstodon">
-                <a href="https://fosstodon.org/@technohiru" target="_blank">
-                    <i class="fa-brands fa-mastodon"></i>
-                </a>
-            </li>
-        </ul>
-    </nav>
-
-    <header class="container">
-        <h3>Prazer,</h3>
-        <h1>Eu sou João.</h1>
-
-        <span class="generic-text">Desenvolvedor Full-Stack Jr.</span>
-        <img src="imgs/corgi.jpeg" alt="corgi" id="corgi" data-show="false" title="Yes. I love Corgis. How did you find out?">
-
-        <p>
-            Estudo programação desde a adolescência e mantenho sempre o interesse em
-            aprender novas ferramentas e linguagens disponíveis no mercado.
-        </p>
+    <header>
+        <h1>João Iacillo</h1>
+        <div>
+            <p><strong>Social</strong></p>
+            <ul>
+                <li>
+                    <img src="src/icons/github.svg" width="10" height="auto" />
+                    <a href="https://github.com/joaoiacillo">GitHub</a>
+                </li>
+                <li>
+                    <img src="src/icons/linkedin.svg" width="10" height="auto" />
+                    <a href="https://linkedin.com/in/joaoiacillo">LinkedIn</a>
+                </li>
+                <li>
+                    <img src="src/icons/network.svg" width="10" height="auto" />
+                    <a href="https://fosstodon.org/@technohiru">Fosstodon</a>
+                </li>
+            </ul>
+        </div>
     </header>
 
-    <section class="container" id="projects">
-        <h2>Projetos</h2>
-        <ul class="project-grid" data-amount="6"></ul>
-        <a href="projects.html" class="button">
-            Veja mais <i class="fa-solid fa-arrow-up-right-from-square"></i>
-        </a>
-    </section>
+    <hr>
 
-    <section class="container" id="cta">
-        <div class="pfp-wrapper">
-            <div class="borderless">
-                <img src="imgs/pfp.jpg" alt="photo of me smiling" />
-            </div>
-        </div>
-        <h2 class="h1-like">Teve interesse no meu trabalho?</h2>
-        <span class="generic-text">Considere um e-mail ou uma mensagem!</span>
+    <main>
+        <section id="s-introduction">
+            <h2>Introdução</h2>
+            <p>
+                Sou um estudante auto-didata de programação web, e sistemas
+                operacionais com foco em Linux. Mesmo direcionado para a área da
+                Internet, tenho bastante curiosidade sobre diversos tópicos
+                relacionados a computadores e estou sempre em busca de novas
+                ideias para projetos futuros.
+            </p>
+        </section>
+    
+        <section id="s-featured">
+            <h2>Projetos em Destaque</h2>
+    
+            <ul>
+                <em>Lista de projetos aqui.</em>
+            </ul>
+        </section>
+    
+        <section id="s-repositories">
+            <h2>Repositórios</h2>
+            <p>Todos os meus projetos estão hospedados no GitHub. Aqui estão os mais recentes:</p>
+    
+            <ul>
+                <em>Lista de repositórios aqui.</em>
+            </ul>
+        </section>
+    
+        <section id="s-blog">
+            <h2>Blog</h2>
+            <ul>
+                <em>Lista de blogs aqui.</em>
+            </ul>
+        </section>
+    
+        <section id="s-cta">
+            <h2>Achou potencial?</h2>
+            <p>Isto é apenas um pouco de todo o meu feito. Quer fazer parte da minha jornada de aprendizado ao mesmo tempo que recebe uma solução com qualidade, leve e rápida?</p>
+            <p><strong>Mande um e-mail!</strong></p>
+        </section>
+    </main>
 
-        <a class="button" href="#contact-modal" rel="modal:open">
-            Entre em contato
-            <i class="fa-regular fa-envelope"></i>
-        </a>
-
-        <br>
-
-        <a class="button" href="https://github.com/joaoiacillo">
-            GitHub
-            <i class="fa-brands fa-github"></i>
-        </a>
-        <a class="button" href="https://linkedin.com/in/joaoiacillo">
-            LinkedIn
-            <i class="fa-brands fa-linkedin"></i>
-        </a>
-        <a class="button" href="https://fosstodon.org/@technohiru">
-            Fosstodon
-            <i class="fa-brands fa-mastodon"></i>
-        </a>
-    </section>
+    <hr>
 
     <footer>
-        <span class="generic-text">Copyright &copy; João Iacillo - 2023</span>
+
     </footer>
-
-    <div class="modal" id="contact-modal">
-        <h2>Entre em Contato</h2>
-
-        <hr />
-
-        <form action="https://formsubmit.co/d755fcc5095831d43ee11d04ccf6e549" method="post">
-            <span class="generic-text">* Todos os campos abaixo são obrigatórios</span>
-
-            <input type="text" name="name" required placeholder="* Qual seu nome?">
-
-            <input type="email" name="email" required placeholder="* Qual seu e-mail?">
-
-            <textarea name="content" required placeholder="* O que gostaria de me comunicar?"></textarea>
-
-            <span class="generic-text">
-                Ao enviar, você será levado a uma página de verificação de
-                spam. Realize o captcha e o e-mail será enviado
-                automaticamente.
-            </span>
-
-            <input type="submit" class="button" value="Enviar" />
-        </form>
-    </div>
-
-    <!-- JQuery -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
-
-    <!-- Projects Script -->
-    <script src="js/projects.js"></script>
-
-    <!-- Corgi Script -->
-    <script>
-        (function () {
-            const corgi = document.getElementById("corgi");
-            const generic = document.querySelector("header .generic-text");
-
-            generic.onclick = function () {
-                let show = corgi.dataset.show;
-                corgi.dataset.show = show === "false" ? "true" : "false";
-            };
-        })();
-    </script>
 </body>
 </html>
