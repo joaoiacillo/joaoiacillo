@@ -18,6 +18,26 @@ Sou um estudante auto-didata de programação web, e sistemas operacionais com f
 
 Lista com os 3 projetos destacados de todo o meu trabalho.
 
+### Linux Project Manager
+
+-   Tags: Linux, Bash
+-   Ano: 2024
+-   Link: https://github.com/joaoiacillo/lpm
+
+### OptimusTech Alura Website
+
+-   Foto: optimustech-alura-website.jpg
+-   Tags: HTML, CSS, JS, Alura
+-   Ano: 2023
+-   Link: https://alura-7days-html-css.vercel.app/
+
+### Portfolio Purple Marketing
+
+-   Foto: portfolio-purple.jpg
+-   Tags: HTML, CSS, JS
+-   Ano: 2023
+-   Link: https://purplemkt.000webhostapp.com/
+
 ## Repositórios
 
 **Requere JavaScript. Fallback para um link caso não o tenha.**
