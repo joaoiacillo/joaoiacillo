@@ -1,8 +1,9 @@
 /* || Warning Banner */
 
 .warning-banner .container {
-    margin: 30px 0;
+    margin: 30px auto;
     padding: 40px 80px;
+    border-radius: 30px;
     font-size: 20px;
     text-align: center;
     color: #FFF5EA;
