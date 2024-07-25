@@ -32,7 +32,7 @@ A 19 years old **web programmer**. Currently studying networking, **GNU/Linux** 
 
 ---
 
-<center>
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</center>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" height="165" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</p>
