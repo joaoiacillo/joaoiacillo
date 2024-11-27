@@ -42,4 +42,17 @@ A 19 years old **web programmer**. Currently studying networking, **GNU/Linux** 
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```python
+From: 25 April 2024 - To: 27 November 2024
+
+Total Time: 23 hrs 25 mins
+
+TypeScript    19 hrs 47 mins  ████████████████████▓░░░░   82.44 %
+Markdown      1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+JSON          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Other         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+CSS           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+```
+
 <!--END_SECTION:waka-->
