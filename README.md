@@ -36,3 +36,10 @@ A 19 years old **web programmer**. Currently studying networking, **GNU/Linux** 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" height="165" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </p>
+
+---
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
