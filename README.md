@@ -1,6 +1,8 @@
 # Hey! I'm John.
 
-A 19 years old **web programmer**. Currently studying networking, **GNU/Linux** and **website development**. I study **Computer Science** at [Estácio](https://estacio.br/). You can [check out my posts (in portuguese)](https://iacilloscove.bearblog.dev/posts/).
+A 19 years old **web programmer**. Currently studying React, Elixir and Phoenix. I study **Computer Science** at [Estácio](https://estacio.br/).
+
+You can [check out my posts (in portuguese)](https://iacillo.bearblog.dev/).
 
 ## Languages
 
