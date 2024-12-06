@@ -46,15 +46,15 @@ You can [check out my posts (in portuguese)](https://iacillo.bearblog.dev/).
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 03 December 2024
+From: 25 April 2024 - To: 04 December 2024
 
-Total Time: 11 hrs 50 mins
+Total Time: 12 hrs 28 mins
 
-TypeScript       8 hrs 48 mins   ██████████████████▒░░░░░░   72.93 %
-Markdown         1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-CSS              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-JSON             27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-TSConfig         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+TypeScript       8 hrs 48 mins   █████████████████▒░░░░░░░   69.26 %
+Markdown         1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+CSS              44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+JSON             31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+TSConfig         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
