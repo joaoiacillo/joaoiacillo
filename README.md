@@ -46,7 +46,7 @@ You can [check out my posts (in portuguese)](https://iacillo.bearblog.dev/).
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 12 March 2025
+From: 25 April 2024 - To: 13 March 2025
 
 Total Time: 12 hrs 44 mins
 
