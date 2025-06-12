@@ -2,10 +2,6 @@
 
 A Brazillian **developer**.
 
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,bash,linux,vscode,gamemakerstudio)](https://skillicons.dev)
-
 ---
 
 <p align="center">
@@ -14,6 +10,10 @@ A Brazillian **developer**.
 </p>
 
 ---
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,bash,linux,vscode,gamemakerstudio)](https://skillicons.dev)
 
 ## Weekly Code Time
 
