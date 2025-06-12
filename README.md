@@ -13,7 +13,7 @@ A Brazillian **developer**.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,bash,linux,vscode,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,bash,linux,git,github,vscode,gamemakerstudio)](https://skillicons.dev)
 
 ## Weekly Code Time
 
