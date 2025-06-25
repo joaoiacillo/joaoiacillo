@@ -20,15 +20,15 @@ A Brazillian **developer**.
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 22 June 2025
+From: 25 April 2024 - To: 23 June 2025
 
-Total Time: 54 hrs 37 mins
+Total Time: 63 hrs 32 mins
 
-JavaScript   27 hrs 43 mins  ████████████▓░░░░░░░░░░░░   50.32 %
-TypeScript   12 hrs 8 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Pug          3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Nunjucks     2 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-HTML         2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JavaScript   27 hrs 48 mins  ███████████░░░░░░░░░░░░░░   43.42 %
+TypeScript   19 hrs 30 mins  ███████▓░░░░░░░░░░░░░░░░░   30.48 %
+Pug          3 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Nunjucks     2 hrs 55 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+HTML         2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
