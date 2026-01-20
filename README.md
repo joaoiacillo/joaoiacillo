@@ -20,15 +20,15 @@ A Brazillian **developer**.
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 17 January 2026
+From: 25 April 2024 - To: 18 January 2026
 
-Total Time: 276 hrs 55 mins
+Total Time: 277 hrs 46 mins
 
-TypeScript     109 hrs 45 mins █████████▓░░░░░░░░░░░░░░░   38.99 %
-JavaScript     77 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   27.60 %
-Pug            13 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-EJS            11 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-YAML           8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+TypeScript     110 hrs 35 mins █████████▓░░░░░░░░░░░░░░░   39.18 %
+JavaScript     77 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   27.51 %
+Pug            13 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+EJS            11 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+YAML           8 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
