@@ -20,7 +20,7 @@ A Brazillian **developer**.
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 19 February 2026
+From: 25 April 2024 - To: 20 February 2026
 
 Total Time: 281 hrs 15 mins
 
