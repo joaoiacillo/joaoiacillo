@@ -4,7 +4,7 @@ A Full-Stack Web Developer. Since my childhood I've been feeding my curiosity fo
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,php,py,postgres,mysql,linux,docker,git,github,gamemaker,webstorm,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,php,py,postgres,mysql,linux,docker,git,github,gamemaker,webstorm,vscode&theme=light&perline=8)](https://skillicons.dev)
 
 ## Weekly Code Time
 
