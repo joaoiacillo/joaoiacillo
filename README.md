@@ -1,19 +1,10 @@
 # Hey! I'm John.
 
-A Brazillian **developer**.
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoiacillo&show_icons=true&locale=en" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</p>
-
----
+A Full-Stack Web Developer. Since my childhood I've been feeding my curiosity for programming and studying about web dev.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,py,mysql,bash,linux,git,github,vscode,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,php,py,postgres,mysql,linux,docker,git,github,gamemaker,webstorm,vscode&theme=dark)](https://skillicons.dev)
 
 ## Weekly Code Time
 
