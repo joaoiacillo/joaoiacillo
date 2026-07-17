@@ -11,7 +11,7 @@ A Full-Stack Web Developer. Since my childhood I've been feeding my curiosity fo
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 April 2024 - To: 14 July 2026
+From: 25 April 2024 - To: 16 July 2026
 
 Total Time: 281 hrs 15 mins
 
